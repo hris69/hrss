@@ -1,0 +1,75 @@
+.body{
+    color: rgb(10, 27, 43);
+    text-align: center;
+    color: rgb(45, 63, 63);
+}
+
+.top-container{
+    background-color: rgb(35, 145, 145);
+    position: relative;
+    padding-top: 80px;
+}
+.cloud1{
+    position: absolute;
+    right: 70px;
+    top: 20px;
+}   
+
+.cloud2{
+    position: absolute;
+    left: 30px;
+    bottom: 100px;
+}
+.h1-hey{
+    font-family:"Libre Baskerville", serif;
+    font-size: 50PX;
+}
+
+.h2-im{
+    font-family:"Libre Baskerville", serif ;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.me{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1fr,1fr);
+    text-align: left;
+margin-top: 100px;
+margin-left: 450px;
+margin-bottom: 150px;
+}
+
+.cat-pic{
+    height: 200px;
+    width: 250px;
+    float: left;
+}
+
+.chili-pic{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    float: left;
+    border-radius:50%;
+}
+
+.cat-txt{
+    margin-bottom: 50px;
+}
+.cat-picture{
+    margin-bottom: 70px;
+    
+}
+
+.hello{
+    color: rgb(23, 34, 53);
+}
+
